@@ -1,0 +1,77 @@
+** compiled at:     Oct 12 2025 11:05:56
+** execution start: 2025-12-11 13:12:20:806219
+graph.cpp:initParameters:1589(3) opening config file 'rai.cfg'
+graph.cpp:initParameters:1596(3)  - failed
+graph.cpp:initParameters:1602(3) opening base config file '/root/local/rai/../rai-robotModels/../local.cfg'
+graph.cpp:initParameters:1608(3)  - failed
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios' from '/home/box/roboticslab-student-ws25/project'
+util.cpp:getIs:1104(3) opening input file 'pandaSingle.g'
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios' from '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:getIs:1104(3) opening input file 'panda_fixGripper.g'
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios/../panda' from '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:getIs:1104(3) opening input file 'panda.g'
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/panda' from '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/panda'
+util.cpp:getIs:1104(3) opening input file 'panda_arm_hand_conv.yml'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/panda'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:getIs:1104(3) opening input file 'link0.h5'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:getIs:1104(3) opening input file 'link1.h5'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:getIs:1104(3) opening input file 'link2.h5'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:getIs:1104(3) opening input file 'link3.h5'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:getIs:1104(3) opening input file 'link4.h5'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:getIs:1104(3) opening input file 'link5.h5'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:getIs:1104(3) opening input file 'link6.h5'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:getIs:1104(3) opening input file 'link7.h5'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:getIs:1104(3) opening input file 'hand.h5'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/panda/meshes' from '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:getIs:1104(3) opening input file 'finger.h5'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/project/lib/python3.10/site-packages/robotic/rai-robotModels/scenarios'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project'
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/configs' from '/home/box/roboticslab-student-ws25/project'
+util.cpp:getIs:1104(3) opening input file 'cfg.g'
+graph.cpp:getParents:845(-1) parsing parent 'world' -- unknown
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/configs/../meshes' from '/home/box/roboticslab-student-ws25/project/configs'
+util.cpp:getIs:1104(3) opening input file 'aruco_marker_100.ply'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/configs'
+qhull.cpp:getHull:366(-1) qh_new_qhull error - exitcode 2
+frame.cpp:createMeshes:2259(-1) shape aruco100 coll_core is trivial -> removing contact flag
+qhull.cpp:getHull:366(-1) qh_new_qhull error - exitcode 2
+frame.cpp:createMeshes:2259(-1) shape aruco101 coll_core is trivial -> removing contact flag
+qhull.cpp:getHull:366(-1) qh_new_qhull error - exitcode 2
+frame.cpp:createMeshes:2259(-1) shape aruco102 coll_core is trivial -> removing contact flag
+qhull.cpp:getHull:366(-1) qh_new_qhull error - exitcode 2
+frame.cpp:createMeshes:2259(-1) shape aruco103 coll_core is trivial -> removing contact flag
+qhull.cpp:getHull:366(-1) qh_new_qhull error - exitcode 2
+frame.cpp:createMeshes:2259(-1) shape goal_marker coll_core is trivial -> removing contact flag
+util.cpp:cd_file:1077(3) entering path '/home/box/roboticslab-student-ws25/project/configs/../meshes' from '/home/box/roboticslab-student-ws25/project/configs'
+util.cpp:getIs:1104(3) opening input file 'aruco_marker_100_small.ply'
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project/configs'
+qhull.cpp:getHull:366(-1) qh_new_qhull error - exitcode 2
+frame.cpp:createMeshes:2259(-1) shape disc_marker coll_core is trivial -> removing contact flag
+qhull.cpp:getHull:366(-1) qh_new_qhull error - exitcode 2
+frame.cpp:createMeshes:2259(-1) shape cue_marker coll_core is trivial -> removing contact flag
+util.cpp:cd_base:1068(3) entering path '/home/box/roboticslab-student-ws25/project'
+** execution stop: 2025-12-11 13:15:42:153058
+** real time: 201.347sec
+** CPU time: 5.16901
+
+** set+queried params:
